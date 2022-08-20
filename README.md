@@ -32,3 +32,5 @@ Autohotkey script for shortcutting arrow keys
 Can using with `Shift` and/or `Ctrl` as usual
 
 Thanks me later
+
+- Jerome
