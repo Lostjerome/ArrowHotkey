@@ -8,7 +8,7 @@ Autohotkey script for shortcutting arrow keys
 
 2. Downloads the ArrowHotkey.ahk file in this repo
 
-3. You have to double clicks on the file to run it every time you turn on your pc
+3. You have to double click on the file to run it every time you turn on your pc
 
 4. Set it to run as `startup` so you wouldn't do the 3. 
 
