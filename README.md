@@ -27,9 +27,9 @@ Autohotkey script for shortcutting arrow keys
 
 `alt + ;` : End of the line
 
-`alt + u` : Home key
+`alt + u` : Home key (Begin of the page)
 
-`alt + o` : End key
+`alt + o` : End key (End of the page)
 
 `alt + '` : Backtick ( ` )
 
