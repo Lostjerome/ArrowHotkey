@@ -23,7 +23,9 @@ Autohotkey script for shortcutting arrow keys
 
 `alt + k` : Down arrow
 
-`al`
+`alt + h` : Begin of the line
+
+`alt + ;` : End of the line
 
 `alt + u` : Home key
 
