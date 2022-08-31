@@ -23,6 +23,8 @@ Autohotkey script for shortcutting arrow keys
 
 `alt + k` : Down arrow
 
+`al`
+
 `alt + u` : Home key
 
 `alt + o` : End key
